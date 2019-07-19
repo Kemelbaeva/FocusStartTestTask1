@@ -1,0 +1,13 @@
+ORDER
+customer: name:Ivan
+surname:Ivanov
+age:25
+
+pizza: title:margherita
+size:30
+ingredients:["tomatoes", "cheese", "olive oil"]
+price:500
+
+quantity:2
+date:2019-07-18 17:18:25 +0000
+cost:1000
